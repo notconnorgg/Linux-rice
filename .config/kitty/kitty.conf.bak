@@ -1,0 +1,7 @@
+background_opacity 0.2
+
+
+# BEGIN_KITTY_THEME
+# Cyberpunk Neon
+include current-theme.conf
+# END_KITTY_THEME
